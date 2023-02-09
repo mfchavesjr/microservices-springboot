@@ -1,0 +1,4 @@
+br\com\mchaves\microservices\core\model\Course$CourseBuilder.class
+br\com\mchaves\microservices\core\model\AbstractEntity.class
+br\com\mchaves\microservices\core\model\Course.class
+br\com\mchaves\microservices\core\repository\CourseRepository.class
